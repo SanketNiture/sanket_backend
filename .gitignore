@@ -2,7 +2,7 @@
 *.log
 
 # Ignore node_modules directory
-node_modules/
+node_modules
 
 
 # Ignore all .zip files
